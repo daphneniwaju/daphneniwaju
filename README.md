@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-Digital Strategist | Fintech Professional | Data Analyst Enthusiast
+Digital Strategist | Fintech Professional | AI Enthusiast
 
 I help organizations leverage technology, data and digital strategies to create impact.
 
 My current focus areas:
 
-- Data Analytics
+- AI
 - Customer Behavior Prediction
 - Recommendation Systems
 - Fintech Innovation
