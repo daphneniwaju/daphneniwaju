@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Digital Strategist | Fintech Professional | AI Enthusiast
+AI Enthusiast | Digital Strategist | Fintech Professional 
 
 I help organizations leverage technology, data and digital strategies to create impact.
 
